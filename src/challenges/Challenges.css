@@ -1,0 +1,25 @@
+.text-top-left {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  } 
+  
+
+  .btn-full-width {
+    width: 100%; 
+  } 
+  
+.bg-dark {
+    margin-top: 50px;
+    margin-bottom: 50px;;
+}
+.custom-heading {
+    color:aliceblue;
+    text-align: center;
+  }
+
+  .card-custom {
+    width: 300px; 
+    height: auto;
+  }
+

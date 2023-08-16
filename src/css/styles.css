@@ -176,7 +176,21 @@
   position: relative;
 }
 
+.contact-form-right {
+  padding: 20px;
+  background-color: white;
+  color: black;
+}
 
+.contact-section .row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.contact-info, .partner-section {
+  padding: 20px;
+}
 
 .industry-box {
   position: relative;
@@ -219,6 +233,98 @@
 .view-all-button-container {
   text-align: left;
   margin-top: 20px;
+}
+
+
+.contact-section {
+  background-color: #000; /* Black background */
+  color: whitesmoke; /* White text */
+  padding: 50px 0;
+}
+
+.comprehensive-it-title {
+  background-color: #DEE0FF; /* Black background */
+  color: black;
+  padding: 10px;
+  font-weight: bold;
+}
+
+
+.benefits-title, .steps-title {
+  background-color: #000; 
+  color: #dee0ff; 
+  padding: 10px;
+  font-size: 18px;
+}
+
+
+.contact-form-section {
+   /* Light purple background */
+  padding: 50px 0;
+}
+
+
+
+.contact-info {
+  color: #000; /* Black text */
+}
+
+.info-text {
+  font-size: 16px;
+}
+
+.call-us-link {
+  color: #ff00ff; 
+}
+
+
+.why-choose-title, .testimonials-title {
+  background-color: #000; /* Black background */
+  color: #ffffff; /* White text */
+  padding: 10px;
+  font-size: 24px;
+}
+
+.why-choose-text, .testimonials-text {
+  font-size: 18px;
+}
+
+
+.contacts-section {
+  background-color: whitesmoke;
+  color:#000;
+}
+.contacts-section a:hover {
+  color: black; 
+}
+
+
+.square-image {
+ 
+  margin-right: 10px;
+}
+
+
+.custom-section {
+ 
+  margin-bottom: 100px;
+}
+
+
+.heading-mid {
+  font-size: 60px;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+}
+
+.justify-content-betweens{
+  font-weight: 800;
 }
 
 

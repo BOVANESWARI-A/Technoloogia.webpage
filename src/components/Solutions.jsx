@@ -50,7 +50,7 @@ const Solutions = () => {
           </Card>
 
           {/* Cyber Security Card */}
-          <Card className="solution-card" style={{ margin: '20px' }}>
+          <Card className="solution-card" style={{ margin: '10px' }}>
             <Card.Body>
               <div className="solution-card-icon">
                 <FontAwesomeIcon icon={faShieldAlt} size="3x"  />
@@ -68,7 +68,7 @@ const Solutions = () => {
 <br></br>
           {/* Web Development Card */}
           <CardGroup>
-          <Card className="solution-card" style={{ margin: '20px' }}>
+          <Card className="solution-card" style={{ margin: '10px' }}>
             <Card.Body>
               <div className="solution-card-icon">
                 <FontAwesomeIcon icon={faCode} size="3x"  />
@@ -82,7 +82,7 @@ const Solutions = () => {
           </Card>
 
           {/* Mobile Development Card */}
-          <Card className="solution-card" style={{ margin: '20px' }}>
+          <Card className="solution-card" style={{ margin: '10px' }}>
             <Card.Body>
               <div className="solution-card-icon">
                 <FontAwesomeIcon icon={faMobileAlt} size="3x" />
@@ -96,7 +96,7 @@ const Solutions = () => {
           </Card>
 
           {/* Cloud Services Card */}
-          <Card className="solution-card" style={{ margin: '20px' }}>
+          <Card className="solution-card" style={{ margin: '10px' }}>
             <Card.Body>
               <div className="solution-card-icon">
                 <FontAwesomeIcon icon={faCloud} size="3x" />

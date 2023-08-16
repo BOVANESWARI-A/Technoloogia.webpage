@@ -10,6 +10,13 @@ import FeaturesSection from '../About/FeaturesSection';
 import Aboutbutton from './Aboutbutton';
 import Solutions from './Solutions';
 import Industries from './Industries';
+import Challenges from '../challenges/Challenges';
+import CardsGrid from '../About/CardsGrid';
+import ContactSection from '../About/ContactSection';
+import Section from '../About/Section';
+import FooterSect from './FooterSect';
+import Footer from './Footer';
+
 
 
 
@@ -67,7 +74,29 @@ const Home = () => {
       <Aboutbutton />
    <Solutions />
  <Industries />
+ <Challenges />
+ <CardsGrid />
+
+
+ 
+ <ContactSection />
+ <Section />
+ <FooterSect />
+ <Footer />
+ 
     </div>
   )
 };
 export default Home;
+
+
+
+
+
+
+
+
+
+
+
+
